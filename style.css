@@ -1,0 +1,44 @@
+.grad{
+ background-image:linear-gradient( to right,#6b059b , #2F5066 
+ ) ;
+};
+.grad1{
+    color:linear-gradient( to right,#A5CE00 , #2F5066 
+    ) ;
+   };
+.img1{
+    float: right;
+}
+.img2{
+    float: left;
+}
+.text1{
+    
+    font-family: "MicroExtendFLF";
+}
+.hight{
+    height: 480px;
+}
+.trans1{
+
+background-color: aliceblue;
+
+}
+.img4{ height:450px;}
+   
+.text5{
+    background-color: 
+    #FFFFFF
+    ;
+}
+
+.trans2{
+
+    background-color: rgb(216, 71, 216);
+    
+    }
+   .background{
+    background-image:linear-gradient( to right,#335562
+    ,#380932
+ ) ;
+   } 
